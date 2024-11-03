@@ -1,0 +1,1 @@
+NAND2TETRIS is a self study course I am pursuing right now to learn about computers from ground up, starting from NAND gates. The 7z file contains the latest work. You might have to head to https://www.nand2tetris.org/course to understand how to navigate. 
